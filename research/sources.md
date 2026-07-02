@@ -23,6 +23,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/justin-welsh/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=0UxQbhaoMlQ
 - YouTube local transcript file: `research/youtube-transcripts/justin-welsh-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for organic audience building, repeatable LinkedIn content systems, and creator-led B2B-style distribution.
 
@@ -34,6 +35,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/dave-gerhardt/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=qQ7wmDV153E
 - YouTube local transcript file: `research/youtube-transcripts/dave-gerhardt-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for B2B marketing, founder-led content, community-led distribution, and practical SaaS marketing narratives.
 
@@ -45,6 +47,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/chris-walker/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=JkXom1dC_20
 - YouTube local transcript file: `research/youtube-transcripts/chris-walker-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for demand generation and B2B marketing thought leadership.
 
@@ -56,6 +59,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/ross-simmonds/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=wPEO-Gjld_E
 - YouTube local transcript file: `research/youtube-transcripts/ross-simmonds-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for content marketing, distribution strategy, SaaS/B2B technology, and organic growth.
 
@@ -67,6 +71,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/amanda-natividad/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=kO5JXEwQ6LM
 - YouTube local transcript file: `research/youtube-transcripts/amanda-natividad-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for zero-click content, audience research, and demand creation through native social content.
 
@@ -78,6 +83,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/april-dunford/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=hdjlCLb9Hl8
 - YouTube local transcript file: `research/youtube-transcripts/april-dunford-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for positioning, category framing, and differentiated B2B SaaS messaging.
 
@@ -89,6 +95,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/peep-laja/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=F25QDJhbhgU
 - YouTube local transcript file: `research/youtube-transcripts/peep-laja-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for evidence-led messaging, buyer insight, differentiation, and B2B research.
 
@@ -100,6 +107,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/lenny-rachitsky/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=DMZem1NYfpM
 - YouTube local transcript file: `research/youtube-transcripts/lenny-rachitsky-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for research-backed product, growth, and career content that can inform LinkedIn content strategy.
 
@@ -111,6 +119,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/kyle-poyar/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=eIOj0Ju-bC8
 - YouTube local transcript file: `research/youtube-transcripts/kyle-poyar-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for SaaS growth, product-led growth, pricing narratives, and expert-led analysis.
 
@@ -122,6 +131,7 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - LinkedIn local notes file: `research/linkedin-posts/gaetano-nino-dinardi/post-01.md`
 - YouTube transcript candidate: https://www.youtube.com/watch?v=2G79I9a7XIQ&t=1s
 - YouTube local transcript file: `research/youtube-transcripts/gaetano-nino-dinardi-video-01.md`
+- LinkedIn post status: Post text supplied by project owner; analysis notes not completed yet.
 - Transcript status: Link collected; transcript not collected yet.
 - Annotation: Selected for B2B SaaS marketing, content strategy, and organic growth relevance.
 
@@ -131,3 +141,5 @@ Research topic: LinkedIn organic content strategy for B2B SaaS
 - Open each YouTube link and confirm whether a transcript is available.
 - If a transcript is available, paste it into the matching Markdown file in `research/youtube-transcripts/`.
 - Do not add generated transcript text or inferred post content.
+
+

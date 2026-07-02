@@ -9,12 +9,12 @@ Research how experienced B2B SaaS marketers and creators use organic LinkedIn co
 This repository currently contains a first-pass source set for 10 experts. For each expert, the repo records:
 
 - One LinkedIn profile link
-- One LinkedIn post link
+- One LinkedIn post link and pasted post text supplied by the project owner
 - One YouTube video link as a transcript candidate
 - A short annotation explaining why the expert was selected
-- Local placeholder files for manual LinkedIn post notes and YouTube transcript collection
+- Local files for LinkedIn post text/notes and YouTube transcript collection placeholders
 
-No post text, transcript text, or research findings have been fabricated.
+No transcript text or research findings have been fabricated. LinkedIn post text currently comes from the project-owner attachment.
 
 ## Repository Structure
 
@@ -53,3 +53,4 @@ research/
 - Gaetano Nino DiNardi
 
 See `research/sources.md` for links, dates, and selection annotations.
+
