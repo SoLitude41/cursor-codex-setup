@@ -1,21 +1,23 @@
-# Cursor Codex Setup
+﻿# LinkedIn Organic Content Strategy for B2B SaaS
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- GitHub
+## Objective
 
-## Steps Completed
-1. Installed Cursor IDE.
-2. Installed Claude Code extension.
-3. Installed Codex extension.
-4. Created a public GitHub repository.
-5. Opened the repository in Cursor.
+Research LinkedIn organic content strategy for B2B SaaS and organize selected source material for later analysis.
 
-## Issues Encountered
-- Initial GitHub setup was unfamiliar.
-- Solved by following the official GitHub documentation.
+## Repository Structure
 
-## Repository Link
-https://github.com/Solitude41/cursor-codex-setup
+```text
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+```
+
+## Methodology
+
+Placeholder for research methodology. No methodology defined yet.
+
+## Selected Experts
+
+Placeholder for selected experts. No experts selected yet.
