@@ -4,7 +4,8 @@ Author: Ross Simmonds
 LinkedIn profile: https://www.linkedin.com/in/rosssimmonds/
 LinkedIn post URL: https://www.linkedin.com/feed/update/urn:li:activity:7477394209910513665/
 Date added: 2026-07-02
-Post date: Not collected yet
+Post date (estimated): 2026-06-29
+Post date method: Decoded from the LinkedIn activity URN ID as a Snowflake-style timestamp (id >> 22 = ms since Unix epoch), cross-validated on 2026-07-03 against LinkedIn's own relative-time display (e.g. "2d", "3 months ago") on two sample posts. Accurate to within about a day, not an exact API timestamp.
 Collection status: Post text supplied by project owner via attachment; analysis notes not completed yet
 
 ## Why This Source Was Selected

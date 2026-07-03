@@ -4,7 +4,8 @@ Author: April Dunford
 LinkedIn profile: https://www.linkedin.com/in/aprildunford/
 LinkedIn post URL: https://www.linkedin.com/posts/aprildunford_today-an-exec-says-to-me-must-be-easy-activity-7437914348683157504-VITK
 Date added: 2026-07-02
-Post date: Not collected yet
+Post date (estimated): 2026-03-12
+Post date method: Decoded from the LinkedIn activity URN ID as a Snowflake-style timestamp (id >> 22 = ms since Unix epoch), cross-validated on 2026-07-03 against LinkedIn's own relative-time display (e.g. "2d", "3 months ago") on two sample posts. Accurate to within about a day, not an exact API timestamp.
 Collection status: Post text supplied by project owner via attachment; analysis notes not completed yet
 
 ## Why This Source Was Selected
