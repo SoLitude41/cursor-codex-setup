@@ -1,0 +1,5 @@
+# Secrets / API keys — never commit these
+.env
+.env.*
+*.key
+scripts/*.local.*
