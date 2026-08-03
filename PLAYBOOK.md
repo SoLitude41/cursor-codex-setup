@@ -20,33 +20,33 @@ Two sourcing notes that apply throughout, so I don't repeat them on every line: 
 
 ### Format and craft
 
-- **Default to native, standalone content — video, carousels, text posts that deliver value without requiring a click.** The platform suppresses reach on outbound links, and dark-social referral tracking means you often can't measure the click anyway, so don't build your content plan around it. (Source: Amanda Natividad, YouTube interview, 20.09.2025)
+- **Default to native, standalone content — video, carousels, text posts that deliver value without requiring a click.** The platform suppresses reach on outbound links, and dark-social referral tracking means you often can't measure the click anyway, so don't build your content plan around it. (Source: Amanda Natividad, YouTube interview, https://www.youtube.com/watch?v=kO5JXEwQ6LM, 20.09.2025)
 
 - **Let the writing stay rough.** Typos, casual formatting, and sentences that don't sound machine-polished read as a costly, hard-to-fake signal that a real person is behind the post — and that signal is worth more as more LinkedIn content is visibly AI-written. (Source: Dave Gerhardt, "How I Post on LinkedIn," Exit Five newsletter, https://exitfive.com/newsletter/how-i-post-on-linkedin-now-that-i-have-200k-followers-exit-five-newsletter/, 18.11.2025; corroborated on his podcast — Dave Gerhardt, YouTube, The Dave Gerhardt Show, https://www.youtube.com/watch?v=qQ7wmDV153E, published 29.12.2025)
 
 - **Open with the customer's story or the specific problem, not the stat or the feature list.** A named person's actual experience is harder to copy than an aggregated number, and it converts better than a display-ad-style claim. (Source: Gaetano Nino DiNardi, YouTube interview, Chili Piper channel, https://www.youtube.com/watch?v=2G79I9a7XIQ, published 02.12.2022)
 
-- **State plainly who you're not a good fit for.** Naming your own limitations reads as more credible than an all-upside pitch, and it pre-qualifies the audience so sales doesn't waste calls on the wrong accounts. (Source: Gaetano Nino DiNardi, YouTube interview, 02.12.2022)
+- **State plainly who you're not a good fit for.** Naming your own limitations reads as more credible than an all-upside pitch, and it pre-qualifies the audience so sales doesn't waste calls on the wrong accounts. (Source: Gaetano Nino DiNardi, YouTube interview, https://www.youtube.com/watch?v=2G79I9a7XIQ, 02.12.2022)
 
-- **Treat your long-form asset as the evidence file for your short-form claims, not a separate project.** Make the bold, compressed claim in the LinkedIn post; let the linked article or newsletter be where you prove it once someone wants the detail. (Source: Amanda Natividad, YouTube interview, 20.09.2025)
+- **Treat your long-form asset as the evidence file for your short-form claims, not a separate project.** Make the bold, compressed claim in the LinkedIn post; let the linked article or newsletter be where you prove it once someone wants the detail. (Source: Amanda Natividad, YouTube interview, https://www.youtube.com/watch?v=kO5JXEwQ6LM, 20.09.2025)
 
 ### Cadence and effort
 
-- **Run "give" and "ask" as a ratio that shifts over time, not a fixed rule.** Start close to 90% pure value / 10% asks; only shift the ratio toward more asks as trust is actually earned, not on a schedule. (Source: Justin Welsh, YouTube interview, 23.10.2025)
+- **Run "give" and "ask" as a ratio that shifts over time, not a fixed rule.** Start close to 90% pure value / 10% asks; only shift the ratio toward more asks as trust is actually earned, not on a schedule. (Source: Justin Welsh, YouTube interview, https://www.youtube.com/watch?v=0UxQbhaoMlQ, 23.10.2025)
 
 - **Weight your plan toward consistent, modest posts over swinging for virality.** In newsletter growth — a reasonable proxy for owned-audience content generally — regular posts in the 50–150-subscriber range account for the majority of total growth, while the rare viral post is a small minority of it. Kyle Poyar reports the split as 55% from consistent "singles and doubles" versus 14% from top viral posts. (Source: Kyle Poyar, "How to grow your B2B newsletter," Growth Unhinged, https://www.growthunhinged.com/p/how-to-grow-your-b2b-newsletter, 11.02.2026)
 
 ### Distribution and amplification
 
-- **Turn real-world moments into LinkedIn content instead of generating ideas from a blank page.** Announcements, stunts, even scrappy low-budget plays work as source material — the event happens once, the post amplifies it far past the room it happened in. (Source: Dave Gerhardt, YouTube, The Dave Gerhardt Show, 29.12.2025 — cites his own CEO-transition post: 1,426 likes, 218 comments, ~25,000 impressions on a Friday-morning post, historically his weakest posting slot)
+- **Turn real-world moments into LinkedIn content instead of generating ideas from a blank page.** Announcements, stunts, even scrappy low-budget plays work as source material — the event happens once, the post amplifies it far past the room it happened in. (Source: Dave Gerhardt, YouTube, The Dave Gerhardt Show, https://www.youtube.com/watch?v=qQ7wmDV153E, 29.12.2025 — cites his own CEO-transition post: 1,426 likes, 218 comments, ~25,000 impressions on a Friday-morning post, historically his weakest posting slot)
 
 - **Cross-promote with peers who have adjacent, non-competing audiences.** A guest post plus a mutual link-back borrows a second creator's trust rather than cold-starting your own — April Dunford's LinkedIn post about writing a guest essay for Lenny Rachitsky's newsletter, and linking to both the essay and his podcast, is a working example of the mechanic, not just a description of it. (Source: April Dunford, LinkedIn post, https://www.linkedin.com/posts/aprildunford_today-an-exec-says-to-me-must-be-easy-activity-7437914348683157504-VITK, 12.03.2026 est.)
 
 ### Monetization and measurement
 
-- **Build up "algorithmic capital" with several value-only native posts before spending it.** Drop the ask — a webinar, a waitlist, a product mention — roughly once every four or five posts, not every post. (Source: Amanda Natividad, YouTube interview, 20.09.2025)
+- **Build up "algorithmic capital" with several value-only native posts before spending it.** Drop the ask — a webinar, a waitlist, a product mention — roughly once every four or five posts, not every post. (Source: Amanda Natividad, YouTube interview, https://www.youtube.com/watch?v=kO5JXEwQ6LM, 20.09.2025)
 
-- **Don't treat an inbound demo request as automatically qualified.** A request for a live walkthrough before someone has engaged with any of your content is closer to a yellow flag than a hot lead — good content should be pre-answering the objections a demo exists to handle. (Source: Amanda Natividad, YouTube interview, 20.09.2025)
+- **Don't treat an inbound demo request as automatically qualified.** A request for a live walkthrough before someone has engaged with any of your content is closer to a yellow flag than a hot lead — good content should be pre-answering the objections a demo exists to handle. (Source: Amanda Natividad, YouTube interview, https://www.youtube.com/watch?v=kO5JXEwQ6LM, 20.09.2025)
 
 - **Expect six-plus months before brand-style content shows up as attributable pipeline, and don't kill a consistent effort at day 60 for lack of a direct line to revenue.** (Source: Peep Laja, YouTube interview, Databox channel, https://www.youtube.com/watch?v=F25QDJhbhgU, published 09.07.2025)
 
@@ -56,7 +56,7 @@ Two sourcing notes that apply throughout, so I don't repeat them on every line: 
 
 ### 1. How much polish a single post needs
 
-- **Dave Gerhardt and Justin Welsh recommend** speed and volume over polish: post almost daily, write fast from a phone or notes app, leave the typos in, treat LinkedIn like a running blog rather than a publication. (Sources: Dave Gerhardt, Exit Five newsletter, 18.11.2025; Justin Welsh, YouTube interview, 23.10.2025)
+- **Dave Gerhardt and Justin Welsh recommend** speed and volume over polish: post almost daily, write fast from a phone or notes app, leave the typos in, treat LinkedIn like a running blog rather than a publication. (Sources: Dave Gerhardt, Exit Five newsletter, 18.11.2025; Justin Welsh, YouTube interview, https://www.youtube.com/watch?v=0UxQbhaoMlQ, 23.10.2025)
 - **Lenny Rachitsky recommends** the opposite for anything meant to carry real weight: 10 to 100 hours on a single piece, a dozen-plus re-reads hunting for "writing friction," a paid copy editor, cutting anything that doesn't earn its place — "kill your darlings," repeatedly. (Source: Lenny Rachitsky, YouTube interview, David Perell's *How I Write*, https://www.youtube.com/watch?v=DMZem1NYfpM, published 25.10.2023)
 - **My take:** both are right for different jobs, and the mistake would be picking one rule for everything you publish. Native LinkedIn posts are a high-frequency, low-stakes format where the platform itself rewards a real, slightly rough voice over a polished one — Gerhardt's own reach data backs that up. But the asset those posts occasionally point to (a case study, a real guide, anything meant to be the "proof" behind a claim) should get Rachitsky's treatment, because that's the piece doing the actual persuading once someone clicks through. Applying Rachitsky's bar to every single post is a burnout plan; applying Gerhardt's bar to your one credibility-bearing asset per quarter is how you end up with nothing worth linking to.
 
@@ -74,7 +74,7 @@ Two sourcing notes that apply throughout, so I don't repeat them on every line: 
 
 ### 4. How narrow your niche should be
 
-- **Amanda Natividad recommends** two to three fixed content pillars as hard guardrails, explicitly for focus and to prevent burnout. (Source: Amanda Natividad, YouTube interview, 20.09.2025)
+- **Amanda Natividad recommends** two to three fixed content pillars as hard guardrails, explicitly for focus and to prevent burnout. (Source: Amanda Natividad, YouTube interview, https://www.youtube.com/watch?v=kO5JXEwQ6LM, 20.09.2025)
 - **Lenny Rachitsky explicitly rejects** the tighter version of this advice — what he calls "personal monopoly" thinking taken to its logical end (e.g., "I am the product management guy, full stop") — saying he'd be bored and unsustainable inside that box, and instead writes across a connected cluster (product, growth, careers, company-building) governed by an intuitive sense of fit rather than a fixed list. (Source: Lenny Rachitsky, YouTube interview, 25.10.2023)
 - **My take:** side with Natividad for anyone earlier in the process. A fixed 2–3 pillar list is a training-wheels constraint that's easy to defend to a boss or a client and easy to keep yourself honest against. Rachitsky's looser, cluster-based approach is a late-stage privilege — it works for him because four years of consistent output already taught him where the edges of his own "intuitive fit" are. Starting a new account with his rule and no track record yet is just a way to justify posting about anything.
 
